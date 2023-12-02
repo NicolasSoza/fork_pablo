@@ -137,7 +137,7 @@ address {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: #666;
+  background-color: blue;
 }
 .list-item__title {
   font-size: 16px;
@@ -181,7 +181,7 @@ address {
   left: 0;
   top: 0;
   height: 100%;
-  background-color: #898989;
+  background-color: blue;
 }
 .level-80:before {
   width: 80%;
